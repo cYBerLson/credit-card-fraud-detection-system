@@ -1,3 +1,7 @@
+────────────────────────────────────────────
+     CREDIT CARD FRAUD DETECTION SYSTEM
+        Undergraduate Final Year Project
+────────────────────────────────────────────
 #  Credit Card Fraud Detection System
 
 > **Undergraduate Final Year Project (B.Sc. Computer Science & Information Technology)**
@@ -78,6 +82,16 @@ credit-card-fraud-detection-system/
 ├── LICENSE
 └── README.md
 ```
+## Demo
+
+> This project currently runs locally using XAMPP.
+
+Future deployment is planned as part of the modern FraudShield AI platform.
+##  Project Status
+
+ Completed (Academic Version)
+
+ Modern successor currently in development:
 
 ##  Installation
 
@@ -157,6 +171,15 @@ Planned improvements include:
 A modern successor to this project is currently planned using Python, Flask/FastAPI, machine learning, and modern cybersecurity best practices.
 
 ---
+##  Skills Demonstrated
+
+- PHP Development
+- MySQL Database Design
+- SQL Queries
+- Authentication
+- Transaction Processing
+- Fraud Detection Concepts
+- Bootstrap UI
 
 ##  Author
 

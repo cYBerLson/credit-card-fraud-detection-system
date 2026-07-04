@@ -93,6 +93,7 @@ credit-card-fraud-detection-system/
 - [Skills Demonstrated](#-skills-demonstrated)
 - [Author](#-author)
 - [License](#-license)
+
 ## Demo
 
 > This project currently runs locally using XAMPP.
@@ -100,9 +101,8 @@ credit-card-fraud-detection-system/
 Future deployment is planned as part of the modern FraudShield AI platform.
 ##  Project Status
 
- Completed (Academic Version)
-
- Modern successor currently in development:
+-  Academic Version – Completed
+-  Modern Successor – In Planning (Cyberlson FraudShield AI)
 
 ##  Installation
 
@@ -155,6 +155,11 @@ http://localhost/credit-card-fraud-detection-system/
 ![Settings](screenshots/settings.png)
 
 ---
+##  Acknowledgements
+
+This project was developed as part of the requirements for the Bachelor of Science (B.Sc.) in Computer Science & Information Technology.
+
+It laid the foundation for my continued work in cybersecurity, secure software development, and artificial intelligence.
 
 ##  Academic Project
 
@@ -201,7 +206,12 @@ Cybersecurity Enthusiast | Ethical Hacker | Penetration Tester | Software Develo
 GitHub: https://github.com/cYBerLson
 
 ---
+##  Disclaimer
+
+This repository preserves the original implementation of my undergraduate capstone project. It is intended for educational and portfolio purposes and is not designed for production use.
+
+A modern version featuring AI-powered fraud detection, secure authentication, and a redesigned architecture is currently planned.
 
 ##  License
 
-This project is released under the MIT License.
+This project is licensed under the MIT License. See the `LICENSE` file for details.

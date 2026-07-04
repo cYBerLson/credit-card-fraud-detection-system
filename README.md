@@ -1,4 +1,4 @@
-# 💳 Credit Card Fraud Detection System
+#  Credit Card Fraud Detection System
 
 > **Undergraduate Final Year Project (B.Sc. Computer Science & Information Technology)**
 
@@ -30,7 +30,7 @@ Although this project reflects my academic work at the time, it represents an im
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * PHP
 * MySQL
@@ -48,7 +48,25 @@ Although this project reflects my academic work at the time, it represents an im
 credit-card-fraud-detection-system/
 │
 ├── assets/
+│   ├── BS/
+│   │   ├── css/
+│   │   ├── fonts/
+│   │   └── js/
+│   ├── css/
+│   └── JS/
+│
 ├── helper/
+│   ├── config.php
+│   ├── clear_transaction.php
+│   ├── logout.php
+│   └── navbar.html
+│
+├── screenshots/
+│   ├── login.png
+│   ├── dashboard.png
+│   ├── transaction.png
+│   └── settings.png
+│
 ├── dashboard.php
 ├── history.php
 ├── index.php
@@ -56,10 +74,10 @@ credit-card-fraud-detection-system/
 ├── settings.php
 ├── transaction.php
 ├── card.sql
+├── .gitignore
+├── LICENSE
 └── README.md
 ```
-
----
 
 ##  Installation
 
@@ -99,7 +117,17 @@ http://localhost/credit-card-fraud-detection-system/
 
 ##  Screenshots
 
-Screenshots will be added in a future update.
+### Login Page
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Transaction & History
+![Transaction](screenshots/transaction.png)
+
+### Settings
+![Settings](screenshots/settings.png)
 
 ---
 
@@ -130,7 +158,7 @@ A modern successor to this project is currently planned using Python, Flask/Fast
 
 ---
 
-## 👨 Author
+##  Author
 
 **Abdulmajid Bello**
 
@@ -140,6 +168,6 @@ GitHub: https://github.com/cYBerLson
 
 ---
 
-## 📄 License
+##  License
 
 This project is released under the MIT License.

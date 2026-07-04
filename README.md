@@ -197,14 +197,6 @@ A modern successor to this project is currently planned using Python, Flask/Fast
 - Fraud Detection Concepts
 - Bootstrap UI
 
-##  Author
-
-**Abdulmajid Bello**
-
-Cybersecurity Enthusiast | Ethical Hacker | Penetration Tester | Software Developer
-
-GitHub: https://github.com/cYBerLson
-
 ---
 ##  Disclaimer
 
@@ -215,3 +207,11 @@ A modern version featuring AI-powered fraud detection, secure authentication, an
 ##  License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+##  Author
+
+**Abdulmajid Bello**
+
+Cybersecurity Enthusiast | Ethical Hacker | Penetration Tester | Software Developer
+
+GitHub: https://github.com/cYBerLson

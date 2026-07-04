@@ -1,7 +1,3 @@
-────────────────────────────────────────────
-     CREDIT CARD FRAUD DETECTION SYSTEM
-        Undergraduate Final Year Project
-────────────────────────────────────────────
 #  Credit Card Fraud Detection System
 
 > **Undergraduate Final Year Project (B.Sc. Computer Science & Information Technology)**
@@ -82,6 +78,21 @@ credit-card-fraud-detection-system/
 ├── LICENSE
 └── README.md
 ```
+##  Table of Contents
+
+- [Overview](#-overview)
+- [Features](#-features)
+- [Technologies Used](#-technologies-used)
+- [Project Structure](#-project-structure)
+- [Demo](#-demo)
+- [Project Status](#-project-status)
+- [Installation](#-installation)
+- [Screenshots](#-screenshots)
+- [Academic Project](#-academic-project)
+- [Future Improvements](#-future-improvements)
+- [Skills Demonstrated](#-skills-demonstrated)
+- [Author](#-author)
+- [License](#-license)
 ## Demo
 
 > This project currently runs locally using XAMPP.
